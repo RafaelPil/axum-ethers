@@ -47,9 +47,9 @@ A simple Rust web API built with [Axum](https://github.com/tokio-rs/axum) and [e
    ```
 
 ### Project Structure
-- main.rs — app entry point, routing setup
-- handlers.rs — request handlers for balances
-- .env — environment variables (not committed to Git)
+- main.rs: app entry point, routing setup
+- handlers.rs: request handlers for balances
+- .env: environment variables (not committed to Git)
 
 ### Notes
 - Make sure .env is included in .gitignore to keep your API keys private.
