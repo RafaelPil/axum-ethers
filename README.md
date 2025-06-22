@@ -20,7 +20,7 @@ A simple Rust web API built with [Axum](https://github.com/tokio-rs/axum) and [e
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/axum-ethers.git
+   git clone https://github.com/RafaelPil/axum-ethers.git
    cd axum-ethers
    ```
 2. Create a .env file in the project root with your Alchemy API key:
